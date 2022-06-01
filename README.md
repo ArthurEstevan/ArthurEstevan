@@ -1,4 +1,5 @@
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2033%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-744-blue) ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue) 
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center"> 
 <br/>
@@ -97,9 +98,6 @@ note: thanks to both of them!
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&theme=react-dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Thousand%20lines%20of%20code-blue)
 
