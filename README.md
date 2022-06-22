@@ -99,9 +99,6 @@ note: thanks to both of them!
 
 <!--START_SECTION:waka-->
 
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-232-blue)
-
 **I'm an Early 🐤** 
 
 ```text
