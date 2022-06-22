@@ -1,4 +1,4 @@
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2059%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue) 
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue) 
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center"> 
@@ -98,14 +98,14 @@ note: thanks to both of them!
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&theme=react-dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs-blue)
+
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-232-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    62 commits     ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.38% 
+🌞 Morning    62 commits      ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.38% 
 🌆 Daytime    117 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.34% 
 🌃 Evening    86 commits     ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.66% 
 🌙 Night      25 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.62%
