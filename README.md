@@ -97,6 +97,9 @@ note: thanks to both of them!
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&theme=react-dark)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
