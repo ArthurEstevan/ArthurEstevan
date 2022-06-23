@@ -98,6 +98,8 @@ note: thanks to both of them!
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&theme=react-dark)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/TimeVerde/SistemaBancario/pull/1) in [TimeVerde/SistemaBancario](https://github.com/TimeVerde/SistemaBancario)
+2. 💪 Opened PR [#1](https://github.com/TimeVerde/SistemaBancario/pull/1) in [TimeVerde/SistemaBancario](https://github.com/TimeVerde/SistemaBancario)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
