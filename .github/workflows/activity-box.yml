@@ -9,9 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
-      - uses: JasonEtco/activity-box@master
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_USERNAME: ArthurEstevan
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
