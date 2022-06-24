@@ -1,4 +1,4 @@
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%202%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue) 
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2024%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue) 
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center"> 
@@ -97,6 +97,8 @@ note: thanks to both of them!
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&theme=react-dark)
 
+---
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
@@ -104,10 +106,9 @@ note: thanks to both of them!
 2. 💪 Opened PR [#1](https://github.com/TimeVerde/SistemaBancario/pull/1) in [TimeVerde/SistemaBancario](https://github.com/TimeVerde/SistemaBancario)
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2024%20mins-blue)
+---
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue)
+<!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
 
