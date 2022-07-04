@@ -1,4 +1,4 @@
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2017%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue) 
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2046%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-774-blue) 
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center"> 
@@ -109,14 +109,11 @@ note: thanks to both of them!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2046%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-291-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.09% 
+🌞 Morning    109 commits     ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.09% 
 🌆 Daytime    127 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.73% 
 🌃 Evening    123 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.7% 
 🌙 Night      29 commits     ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.47%
