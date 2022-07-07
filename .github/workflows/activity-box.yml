@@ -1,8 +1,9 @@
-name: Activity Box
+name: Update README
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
