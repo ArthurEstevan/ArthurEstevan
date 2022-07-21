@@ -82,7 +82,7 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
   
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=12175861551&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/12175861551)
   
- <img src="https://guilyx.vercel.app/api/top-played">
+ <img src="https://spotify-on-my-profile.vercel.app/top-played">
 
 </div>
 
