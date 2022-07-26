@@ -96,7 +96,7 @@ note: thanks to both of them!
 ```-->
 
 
-![Github Activity Graph](https://github-readme-activity-graph.arthurestevan.repl.co/graph?username=arthurestevan&theme=react-dark)
+[![Github Activity Graph](https://github-readme-activity-graph.arthurestevan.repl.co/graph?username=arthurestevan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
