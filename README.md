@@ -86,18 +86,15 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 
 </div>
 
-<!-- Nothing weird to see here -->
-<!--```yaml
-section: spotify components info
-tutorial_path: ArthurEstevan/ArthurEstevan/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
-```-->
-
-
 [![Github Activity Graph](https://github-readme-activity-graph.arthurestevan.repl.co/graph?username=arthurestevan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+```yaml
+section: Github Activity Graph Info
+tutorial_path: Ashutosh00710/github-readme-activity-graph
+original_idea: natemoo-re
+improved_by: Ashutosh00710
+note: thanks to both of them!
+```
 ---
 
 **:zap: Recent Activity:**
