@@ -95,7 +95,7 @@ improved_by: andyruwruw
 note: thanks to both of them!
 ```-->
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&theme=react-dark)
+![Ashutosh's github activity graph](https://graphic-github.herokuapp.com/graph?username=ArthurEstevan&theme=react-dark)
 
 ---
 
