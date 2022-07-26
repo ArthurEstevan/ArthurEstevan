@@ -86,7 +86,7 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 
 </div>
 
-[![Github Activity Graph](https://github-readme-activity-graph.arthurestevan.repl.co/graph?username=arthurestevan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github Activity Graph](https://github-readme-activity-graph.arthurestevan.repl.co/graph?username=arthurestevan&theme=react-dark)
 
 ```yaml
 section: Github Activity Graph Info
