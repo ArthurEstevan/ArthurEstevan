@@ -97,6 +97,10 @@ note: thanks to both of them!
 ```
 ---
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
