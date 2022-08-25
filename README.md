@@ -104,8 +104,8 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ArthurEstevan/Entra21_Project_BC_2022/pull/1) in [ArthurEstevan/Entra21_Project_BC_2022](https://github.com/ArthurEstevan/Entra21_Project_BC_2022)
-2. 💪 Opened PR [#1](https://github.com/ArthurEstevan/Entra21_Project_BC_2022/pull/1) in [ArthurEstevan/Entra21_Project_BC_2022](https://github.com/ArthurEstevan/Entra21_Project_BC_2022)
+1. 🎉 Merged PR [#1](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0/pull/1) in [ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0)
+2. 💪 Opened PR [#1](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0/pull/1) in [ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0)
 <!--END_SECTION:activity-->
 
 ---
