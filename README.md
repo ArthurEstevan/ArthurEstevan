@@ -81,25 +81,20 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 <div align="center">
   
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=12175861551&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/12175861551)
-  
- <img src="https://spotify-on-my-profile.vercel.app/top-played">
 
+  <img src="https://spotify-on-my-profile.vercel.app/top-played">
+  
 </div>
 
-![Github Activity Graph](https://github-readme-activity-graph.arthurestevan.repl.co/graph?username=arthurestevan&theme=react-dark)
-
 ```yaml
-section: Github Activity Graph Info
-tutorial_path: Ashutosh00710/github-readme-activity-graph
+section: spotify components info
+tutorial_path: guilyx/guilyx/how-to.md
 original_idea: natemoo-re
-improved_by: Ashutosh00710
+improved_by: andyruwruw
 note: thanks to both of them!
 ```
----
 
 <!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 **:zap: Recent Activity:**
 
@@ -108,7 +103,7 @@ note: thanks to both of them!
 2. 💪 Opened PR [#1](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0/pull/1) in [ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0)
 <!--END_SECTION:activity-->
 
----
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
