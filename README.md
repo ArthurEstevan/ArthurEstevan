@@ -1,4 +1,4 @@
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2052%20mins-blue) ![](https://komarev.com/ghpvc/?username=ArthurEstevan) 
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2059%20mins-blue) ![](https://komarev.com/ghpvc/?username=ArthurEstevan) 
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center"> 
@@ -111,10 +111,6 @@ note: thanks to both of them!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2059%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **I'm an Early 🐤** 
 
 ```text
