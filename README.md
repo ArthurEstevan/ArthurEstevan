@@ -1,4 +1,4 @@
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2059%20mins-blue) ![](https://komarev.com/ghpvc/?username=ArthurEstevan) 
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2049%20mins-blue) ![](https://komarev.com/ghpvc/?username=ArthurEstevan) 
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center"> 
@@ -106,8 +106,6 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **I'm an Early 🐤** 
