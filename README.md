@@ -106,7 +106,7 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -169,7 +169,7 @@ C#                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 15/11/2022 00:41:54 UTC
+ Last Updated on 16/11/2022 00:42:31 UTC
 <!--END_SECTION:waka-->
 
 
