@@ -103,7 +103,7 @@ note: thanks to both of them!
 2. 💪 Opened PR [#1](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0/pull/1) in [ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0](https://github.com/ArthurEstevan/redesenvolvimento-conta-bancaria-v2.0)
 <!--END_SECTION:activity-->
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&custom_title=Arthur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
