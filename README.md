@@ -106,7 +106,6 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&custom_title=Arthur's%20Activity%20Graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2048%20mins-blue)
 
 **I'm an Early 🐤** 
 
