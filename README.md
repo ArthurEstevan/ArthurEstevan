@@ -103,8 +103,12 @@ note: thanks to both of them!
 2. 💪 Opened PR [#1](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022/pull/1) in [ArthurEstevan/Matheus_Battisti_Angular_2022](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022)
 <!--END_SECTION:activity-->
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurEstevan&custom_title=Arthur's%20Activity%20Graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<h2 align='center'><i><a href="https://github.com/ArthurEstevan/github-readme-activity-graph">Activity Graph 📈</i></h2>
+  
+<p align="center">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArthurEstevan&custom_title=Arthur's%20activity%20graph&theme=github-light&hide_border=true" width="100%">
+</p>
+  
 <!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
