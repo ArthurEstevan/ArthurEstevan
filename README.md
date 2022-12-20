@@ -35,7 +35,7 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 
 <br />
 
-<details>
+<details open="open">
 <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
  
   
