@@ -114,7 +114,6 @@ note: thanks to both of them!
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2037%20mins-blue)
 
 **I'm an Early 🐤** 
 
