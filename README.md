@@ -103,8 +103,8 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022/pull/1) in [ArthurEstevan/Matheus_Battisti_Angular_2022](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022)
-2. 💪 Opened PR [#1](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022/pull/1) in [ArthurEstevan/Matheus_Battisti_Angular_2022](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022)
+1. 🎉 Merged PR [#2](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022/pull/2) in [ArthurEstevan/Matheus_Battisti_Angular_2022](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022)
+2. 💪 Opened PR [#2](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022/pull/2) in [ArthurEstevan/Matheus_Battisti_Angular_2022](https://github.com/ArthurEstevan/Matheus_Battisti_Angular_2022)
 <!--END_SECTION:activity-->
 
 <h2 align='center'><i><a href="https://github.com/ArthurEstevan/github-readme-activity-graph">🏆 Activity Graph 🏆</i></h2>
